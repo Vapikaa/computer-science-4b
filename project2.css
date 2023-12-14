@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+
+Body {
+    background-color:magenta;
+    color: orangered;
+    text-align: left;
+    font-size: 20pt;
+    font-family: "Inconsolata", monospace;
+}
+
+a {
+  color: purple;
+}
